@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4mpl7uhueb2q"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_nyp4a"]
+
+[node name="base_label" type="Label"]
+offset_right = 40.0
+offset_bottom = 23.0
+label_settings = SubResource("LabelSettings_nyp4a")
